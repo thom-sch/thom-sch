@@ -1,3 +1,8 @@
+Github projects of Thomas Schneider
+===================================
+
+Learn more about me: https://sy-thos.de
+
 <!--
 **thom-sch/thom-sch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
